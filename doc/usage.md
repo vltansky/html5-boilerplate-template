@@ -30,13 +30,12 @@ A basic HTML5 Boilerplate site initially looks something like this:
 ```
 .
 ├── css
-│   ├── main.css
-│   └── normalize.css
+│   ├── normalize.css
+│   └── style.css
 ├── doc
 ├── img
 ├── js
-│   ├── main.js
-│   ├── plugins.js
+│   ├── app.js
 │   └── vendor
 │       └── modernizr.min.js
 ├── .editorconfig
